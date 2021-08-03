@@ -13,6 +13,7 @@ print(formatter.format("one", "two", "three", "four"))
 print(formatter.format(True, False, False, True))
 # use the formatter to print itsefl four times
 print(formatter.format(formatter, formatter, formatter, formatter))
+
 # use formatter to print out a longer text.
 print(formatter.format(
     "Try your",
