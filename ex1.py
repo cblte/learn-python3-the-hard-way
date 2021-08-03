@@ -1,3 +1,5 @@
+# Chapter 1: A good first program
+
 print("Hello World!")
 print("Hello again")
 print("I like typing this.")
