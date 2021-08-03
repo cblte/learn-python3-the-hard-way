@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Exercise 3: Numbers and Math
 
 # print a string

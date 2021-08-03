@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Exercise 2: Comments and pound characters
 
 # A comment, this is so you can read your program later.
