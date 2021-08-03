@@ -1,4 +1,4 @@
-# Chapter 2: Comments and pound characters
+# Exercise 2: Comments and pound characters
 
 # A comment, this is so you can read your program later.
 # Anything after # (octothorp) is ignored by python.

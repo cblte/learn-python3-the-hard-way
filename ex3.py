@@ -1,4 +1,4 @@
-# Chapter 3: Numbers and Math
+# Exercise 3: Numbers and Math
 
 # print a string
 print("I will now count my chickens:")
