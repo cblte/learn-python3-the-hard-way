@@ -1,4 +1,4 @@
-#!python3
+#!/usr/bin/env python3
 
 # Exercise 21. Functions Can Return Something
 
